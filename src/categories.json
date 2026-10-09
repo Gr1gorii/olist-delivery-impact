@@ -1,0 +1,298 @@
+{
+  "beleza_saude": {
+    "en": "Health and beauty",
+    "it": "Salute e bellezza"
+  },
+  "informatica_acessorios": {
+    "en": "Computers accessories",
+    "it": "Computer e accessori"
+  },
+  "automotivo": {
+    "en": "Automotive",
+    "it": "Auto"
+  },
+  "cama_mesa_banho": {
+    "en": "Bed bath table",
+    "it": "Letto, bagno e tavola"
+  },
+  "moveis_decoracao": {
+    "en": "Furniture decor",
+    "it": "Mobili e decorazioni"
+  },
+  "esporte_lazer": {
+    "en": "Sports leisure",
+    "it": "Sport e tempo libero"
+  },
+  "perfumaria": {
+    "en": "Perfumery",
+    "it": "Profumeria"
+  },
+  "utilidades_domesticas": {
+    "en": "Housewares",
+    "it": "Articoli per la casa"
+  },
+  "telefonia": {
+    "en": "Telephony",
+    "it": "Telefonia"
+  },
+  "relogios_presentes": {
+    "en": "Watches gifts",
+    "it": "Orologi e regali"
+  },
+  "alimentos_bebidas": {
+    "en": "Food drink",
+    "it": "Alimenti e bevande"
+  },
+  "bebes": {
+    "en": "Baby",
+    "it": "Prima infanzia"
+  },
+  "papelaria": {
+    "en": "Stationery",
+    "it": "Cancelleria"
+  },
+  "tablets_impressao_imagem": {
+    "en": "Tablets, printing and imaging",
+    "it": "Tablet, stampa e immagini"
+  },
+  "brinquedos": {
+    "en": "Toys",
+    "it": "Giocattoli"
+  },
+  "telefonia_fixa": {
+    "en": "Fixed telephony",
+    "it": "Telefonia fissa"
+  },
+  "ferramentas_jardim": {
+    "en": "Garden tools",
+    "it": "Attrezzi da giardino"
+  },
+  "fashion_bolsas_e_acessorios": {
+    "en": "Fashion bags accessories",
+    "it": "Borse e accessori moda"
+  },
+  "eletroportateis": {
+    "en": "Small appliances",
+    "it": "Piccoli elettrodomestici"
+  },
+  "consoles_games": {
+    "en": "Consoles games",
+    "it": "Console e videogiochi"
+  },
+  "audio": {
+    "en": "Audio",
+    "it": "Audio"
+  },
+  "fashion_calcados": {
+    "en": "Fashion shoes",
+    "it": "Calzature"
+  },
+  "cool_stuff": {
+    "en": "Cool stuff",
+    "it": "Articoli particolari"
+  },
+  "malas_acessorios": {
+    "en": "Luggage accessories",
+    "it": "Bagagli e accessori"
+  },
+  "climatizacao": {
+    "en": "Air conditioning",
+    "it": "Climatizzazione"
+  },
+  "construcao_ferramentas_construcao": {
+    "en": "Construction tools construction",
+    "it": "Attrezzi per edilizia"
+  },
+  "moveis_cozinha_area_de_servico_jantar_e_jardim": {
+    "en": "Kitchen, dining, laundry and garden furniture",
+    "it": "Mobili per cucina, pranzo, lavanderia e giardino"
+  },
+  "construcao_ferramentas_jardim": {
+    "en": "Garden construction tools",
+    "it": "Attrezzi per giardinaggio"
+  },
+  "fashion_roupa_masculina": {
+    "en": "Men's clothing",
+    "it": "Abbigliamento uomo"
+  },
+  "pet_shop": {
+    "en": "Pet shop",
+    "it": "Articoli per animali"
+  },
+  "moveis_escritorio": {
+    "en": "Office furniture",
+    "it": "Mobili per ufficio"
+  },
+  "market_place": {
+    "en": "Marketplace",
+    "it": "Marketplace"
+  },
+  "eletronicos": {
+    "en": "Electronics",
+    "it": "Elettronica"
+  },
+  "eletrodomesticos": {
+    "en": "Home appliances",
+    "it": "Elettrodomestici"
+  },
+  "artigos_de_festas": {
+    "en": "Party supplies",
+    "it": "Articoli per feste"
+  },
+  "casa_conforto": {
+    "en": "Home comfort",
+    "it": "Comfort per la casa"
+  },
+  "construcao_ferramentas_ferramentas": {
+    "en": "Construction tools",
+    "it": "Utensili per edilizia"
+  },
+  "agro_industria_e_comercio": {
+    "en": "Agro industry and commerce",
+    "it": "Agricoltura, industria e commercio"
+  },
+  "moveis_colchao_e_estofado": {
+    "en": "Furniture mattress and upholstery",
+    "it": "Materassi e mobili imbottiti"
+  },
+  "livros_tecnicos": {
+    "en": "Books technical",
+    "it": "Libri tecnici"
+  },
+  "casa_construcao": {
+    "en": "Home construction",
+    "it": "Edilizia per la casa"
+  },
+  "instrumentos_musicais": {
+    "en": "Musical instruments",
+    "it": "Strumenti musicali"
+  },
+  "moveis_sala": {
+    "en": "Furniture living room",
+    "it": "Mobili per soggiorno"
+  },
+  "construcao_ferramentas_iluminacao": {
+    "en": "Construction tools lights",
+    "it": "Illuminazione per edilizia"
+  },
+  "industria_comercio_e_negocios": {
+    "en": "Industry commerce and business",
+    "it": "Industria, commercio e attività"
+  },
+  "alimentos": {
+    "en": "Food",
+    "it": "Alimenti"
+  },
+  "artes": {
+    "en": "Art",
+    "it": "Arte"
+  },
+  "moveis_quarto": {
+    "en": "Furniture bedroom",
+    "it": "Mobili per camera da letto"
+  },
+  "livros_interesse_geral": {
+    "en": "Books general interest",
+    "it": "Libri di interesse generale"
+  },
+  "construcao_ferramentas_seguranca": {
+    "en": "Construction tools safety",
+    "it": "Sicurezza per edilizia"
+  },
+  "fashion_underwear_e_moda_praia": {
+    "en": "Fashion underwear beach",
+    "it": "Intimo e abbigliamento mare"
+  },
+  "fashion_esporte": {
+    "en": "Fashion sport",
+    "it": "Abbigliamento sportivo"
+  },
+  "sinalizacao_e_seguranca": {
+    "en": "Signaling and security",
+    "it": "Segnaletica e sicurezza"
+  },
+  "pcs": {
+    "en": "Computers",
+    "it": "Computer"
+  },
+  "artigos_de_natal": {
+    "en": "Christmas supplies",
+    "it": "Articoli natalizi"
+  },
+  "fashion_roupa_feminina": {
+    "en": "Women's clothing",
+    "it": "Abbigliamento donna"
+  },
+  "eletrodomesticos_2": {
+    "en": "Home appliances (other)",
+    "it": "Elettrodomestici (altro)"
+  },
+  "livros_importados": {
+    "en": "Books imported",
+    "it": "Libri importati"
+  },
+  "bebidas": {
+    "en": "Drinks",
+    "it": "Bevande"
+  },
+  "cine_foto": {
+    "en": "Cine photo",
+    "it": "Cinema e fotografia"
+  },
+  "la_cuisine": {
+    "en": "Kitchen supplies",
+    "it": "Cucina"
+  },
+  "musica": {
+    "en": "Music",
+    "it": "Musica"
+  },
+  "casa_conforto_2": {
+    "en": "Home comfort (other)",
+    "it": "Comfort per la casa (altro)"
+  },
+  "portateis_casa_forno_e_cafe": {
+    "en": "Small appliances home oven and coffee",
+    "it": "Piccoli elettrodomestici per forno e caffè"
+  },
+  "cds_dvds_musicais": {
+    "en": "Cds dvds musicals",
+    "it": "CD e DVD musicali"
+  },
+  "dvds_blu_ray": {
+    "en": "Dvds blu ray",
+    "it": "DVD e Blu-ray"
+  },
+  "flores": {
+    "en": "Flowers",
+    "it": "Fiori"
+  },
+  "artes_e_artesanato": {
+    "en": "Arts and crafts",
+    "it": "Arte e artigianato"
+  },
+  "fraldas_higiene": {
+    "en": "Diapers and hygiene",
+    "it": "Pannolini e igiene"
+  },
+  "fashion_roupa_infanto_juvenil": {
+    "en": "Children's clothing",
+    "it": "Abbigliamento bambini e ragazzi"
+  },
+  "seguros_e_servicos": {
+    "en": "Insurance and services",
+    "it": "Assicurazioni e servizi"
+  },
+  "unknown": {
+    "en": "Unknown",
+    "it": "Sconosciuta"
+  },
+  "pc_gamer": {
+    "en": "Gaming PCs",
+    "it": "PC da gioco"
+  },
+  "portateis_cozinha_e_preparadores_de_alimentos": {
+    "en": "Small kitchen appliances and food processors",
+    "it": "Piccoli elettrodomestici da cucina e robot da cucina"
+  }
+}

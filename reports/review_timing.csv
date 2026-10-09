@@ -1,0 +1,13 @@
+population,review_time,definition,before_delivery,orders,share,missing_review_time,missing_delivery_time
+all_late,creation,timestamp,5334,6534,0.8163452708907254,153,0
+all_late,creation,calendar_day,4753,6534,0.7274257728803183,153,0
+all_late,answer,timestamp,4476,6534,0.6850321395775941,153,0
+all_late,answer,calendar_day,4089,6534,0.6258034894398531,153,0
+reviewed_late,creation,timestamp,5334,6381,0.8359191349318289,0,0
+reviewed_late,creation,calendar_day,4753,6381,0.7448675756151073,0,0
+reviewed_late,answer,timestamp,4476,6381,0.7014574518100611,0,0
+reviewed_late,answer,calendar_day,4089,6381,0.6408086506817113,0,0
+all_reviewed,creation,timestamp,8268,95824,0.08628318584070796,0,0
+all_reviewed,creation,calendar_day,5090,95824,0.0531182167306729,0,0
+all_reviewed,answer,timestamp,4768,95824,0.049757889464017366,0,0
+all_reviewed,answer,calendar_day,4342,95824,0.04531223910502588,0,0

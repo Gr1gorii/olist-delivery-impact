@@ -1,0 +1,51 @@
+cluster,order_id,text,score,delay_days
+0,f1cd9d30a289847f9a18900d191a4f05,Comprei dois produtos e recebi apenas um,2.0,-16.0
+0,50620e639f6ed3116494d51bd888f449,Comprei dois produtos e recebi apenas um,1.0,-23.0
+0,e129e9f89489497f919cd582bf75a0e7,Comprei dois itens e recebi só um,1.0,-14.0
+0,860a32f547d59f2dfaf1bc22cd68d972,Comprei 2 produtos entregaram apenas 1,1.0,-17.0
+0,50bd37ee53e04d52626a5facdc6bd60f,Comprei dois itens e recebi apenas um,2.0,-12.0
+1,f95884da9f9e2df5d430f7e289b3c07e,Vou aguardado a entrega para dizer se recomentaria,1.0,-14.0
+1,96521e809c9baf75bf1a6881d39e0d8e,Veio faltando item e estou aguardando uma posição,1.0,-14.0
+1,832c7364e0bee77d8763a327983c1b8a,Veio faltando item e estou aguardando uma posição,1.0,-10.0
+1,ff8bf9c080a3d7c12864f7eba1fdd0c2,Comprei um patinete pra minha filha recebi uma escova rotatória to aguardando até agora a troca e nada,1.0,-10.0
+1,b77a901ce2de1a59489f51df38987132,"A compra não chegou completa, está falta chegar o kit de berço",1.0,-25.0
+2,e63b37ab1f91c70300e77e21b27ad11f,Correio não entregou o produto em minha residência. Tive que solicitar outra pessoa para pegar o produto e ainda por cima o produto veio errado. Lamentável,1.0,-18.0
+2,0b3407e419ef6be66392971885acce73,"Desta vez meu produto não foi entregue corretamente. Pedi e paguei por 4 unidades, mas na verdade recebi apenas 3. Estou no aguardo de um retorno da loja",2.0,-26.0
+2,172fa490c511f028f9fb22f36a3b0d83,SOLICITEI O CANCELAMENTO APÓS RECEBER UM E-MAIL INFORMANDO QUE HOUVE UM PROBLEMA COM A ENTREGA DO MESMO E REALIZEI A COMPRA DE UM PRODUTO SIMILAR E DIAS DEPOIS CHEGOU ESTE. E AGORA NÃO CANCELAM,1.0,-13.0
+2,241a5c06b9d7d5cdc9df0d2157f5be9e,"Estou há mais de 30 dias para devolver este produto, solicitação que fiz no dia seguinte ao recebimento por notar que havia pedido produto errado. Já fiz duas solicitações de devoluçao e nada até hoje",1.0,-9.0
+2,c25b7410c11056133dd5908057f4ce6a,Fiquei esperando um mês pela minha compra e hoje recebo a confirmação de cancelamento da minha compra. Esperei esse tempo todo pelo produto e agora não vou receber,2.0,7.0
+3,b2d3d1cd87d22775690fcff44e275cac,O produto nâo foi entregue,1.0,8.0
+3,2df811835cc5c23687c33228fcf4a32f,DEMOROU MUIIITOOOOOOOO PRA CHEGAR O PRODUTO,1.0,-12.0
+3,6389c29392c5959831de3e0875ae1cb3,Recebi o produto errado,1.0,-8.0
+3,72aac576696a046d89aa7ac132ecd3d6,Recebi o produto errado,2.0,-14.0
+3,5186d475bd6d5839473d5a6b8669638b,Recebi o produto errado,1.0,-8.0
+4,47c9687751ccee4ea76cf6386b30336d,Não recebi o pedido,1.0,21.0
+4,b0ed825ce4ca8cdc787a4f71bce6fba2,Não recebi até agora a mercadoria,1.0,5.0
+4,1fac4d3f34c72501c48ff0db90773dda,Ainda não recebi minha encomenda,1.0,7.0
+4,3ac0423d1e7e335f83c8fa3600ae47d7,Não recebi ainda,1.0,14.0
+4,607a53a5c5210e129c689ecfb2c1897b,Não recebi ainda,1.0,-12.0
+5,e2244e42c2d85b8e677c622dea93cd78,Não recebi ainda o produto,2.0,2.0
+5,a8dcdaca6b71b71297497af76297b1d0,Não recebi o produto,1.0,18.0
+5,16a7204d840d81ed38a60b9539607280,Não recebi o produto,1.0,19.0
+5,6696737f72902ca26a8bb47e22769841,Não recebi o produto,1.0,-26.0
+5,224a57164e7d58e7d551cdc70d6d902d,Não recebi o produto,1.0,-7.0
+6,4671913802b0033db963ffec94dc5bbe,Não recebi o produto é não consigo rastrear o site está com problema é não tenho como rastrear,1.0,5.0
+6,295223d3665d750dffdd3da21dee2d15,"produto entregue , errado , comprei um relogio e me entregaram outro, estou insatisfeito, ate o momento",1.0,-13.0
+6,54e1a3c2b97fb0809da548a59f64c813,Não recebi o produto não recebi uma justificativa do vendedor. entrei em contato mas até agora não obtive uma resposta,1.0,4.0
+6,cc6e15491d167d2bd2d0eef0d14970c8,"por enquanto minha avaliação é esta, pode mudar mais por enquanto nao.nao recebi meu produto, que por sinal já esta em atraso a 5 dias.depois posso reavaliar, por enquanto não indico ninguém a comprar",1.0,13.0
+6,1d4fff6b3a70a427fcd88a848c3b6050,"Informaram q o produto não chegou nos correios em Porto Alegre, enviei mensagem e estou aguardando o retorno",1.0,24.0
+7,39a14db0962dfaf89800218567a80c1f,O prazo de entrega já se passou e ainda não recebi o produto,1.0,3.0
+7,3cf732ae03a74a50fc69cbfe6cb978fc,"O produto não foi entregue, fiz uma reclamação e nem responderam",1.0,35.0
+7,483c22865f4aa9d0bd3cceb535b176ab,O produto não foi entregue até o momento. Estou insegura quanto ao recebimento,1.0,-14.0
+7,0e98c70fb06024ae560719cace52421f,Faz muito tempo que o produto foi comprado e até agora não recebi,1.0,14.0
+7,9e7147a6ff3d5299da2672e1c64c9c49,Ainda não recebi produto e a entrega esta fora do prazo!,1.0,7.0
+8,4ed4a6e12e74982dd78c78df1ed3f372,Produto veio com defeito,1.0,-15.0
+8,fc24613395700f29adf22b2383c12bb0,Produto veio com defeito,1.0,-15.0
+8,99c0817d6ecd5fe55d21540917f1f5f9,O produto veio errado,1.0,-33.0
+8,3426a8ff7d6108c541c7edd4ede5cf18,Produto de péssima qualidade,1.0,-16.0
+8,a5feb0197f260c5208284d3d53639266,"Desorganização, produto veio errado",1.0,-9.0
+9,cb2ad554e5c2af7151fa9b324750df29,"O produto veio errado.Pedimos um adesivo de borboletas ROSA e chegou um adesivo de borboletas VERDES.Não me avisaram que mudariam o pedido. Como consumidora achei desrespeitoso, pois escolhi outra cor",1.0,-10.0
+9,a90ba85d1c3ec461d94c0a26cbe4d051,"O produto enviado não chega nem perto das bordas, mesmo sendo edge e sabendo que não era abaulado. Não recomendo ninguém a comprar. Voi tentar trocar. Se não vai ser dinheiro jogado fora",1.0,-11.0
+9,dd49a987288a4d98ff61100ff35330af,"A encomenda chegou atrasada, no site não mostrou detalhes do objeto, não foi o que eu buscava. Foi uma perca de tempo e dinheiro",1.0,-8.0
+9,1dc762b27fac9fd0a2a373b1765904d6,"O produto comprado veio totalmente diferente e com qualidade inferior ao da foto. A mochila não é toda azul/preto como na imagem, veio azul/vermelho. Não recomendo o material de fabricação é péssimo",1.0,1.0
+9,c7c5cb848cb25afc53c7a8d2527a9ad0,"O produto não veio em embalagem do fabricante, tudo leva a crer que é falsificado. Irei retornar",1.0,-29.0

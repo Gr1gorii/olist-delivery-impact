@@ -1,0 +1,11 @@
+cluster,reviews,late_rate,average_score,label,family,label_it,family_it
+0,544,0.0459558823529411,1.1911764705882353,Incomplete order,Product,Ordine incompleto,Prodotto
+1,631,0.1759112519809825,1.2741679873217115,Short mixed complaints,Mixed,Reclami brevi e misti,Misti
+2,2062,0.2720659553831231,1.1648884578079537,Order contents and returns,Mixed,Contenuto dell’ordine e resi,Misti
+3,549,0.3734061930783242,1.273224043715847,Short reviews without a common theme,Mixed,Recensioni brevi senza un tema comune,Misti
+4,401,0.5012468827930174,1.1920199501246882,Order not received yet,Logistics,Ordine non ancora ricevuto,Logistica
+5,408,0.6715686274509803,1.1225490196078431,Waiting for delivery,Logistics,Attesa della consegna,Logistica
+6,1450,0.3441379310344827,1.2213793103448276,Order and support problems,Mixed,Problemi con l’ordine e l’assistenza,Misti
+7,1157,0.5367329299913569,1.1374243733794296,Delivery dates and communication,Mixed,Tempi di consegna e comunicazione,Misti
+8,603,0.0945273631840796,1.2835820895522387,Defective or wrong item,Product,Articolo difettoso o sbagliato,Prodotto
+9,1303,0.113584036838066,1.3016116653875671,Product quality and description,Product,Qualità e descrizione del prodotto,Prodotto

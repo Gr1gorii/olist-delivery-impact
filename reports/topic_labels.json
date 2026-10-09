@@ -1,0 +1,52 @@
+{
+  "0": {
+    "label": "Incomplete order",
+    "label_it": "Ordine incompleto",
+    "family": "Product"
+  },
+  "1": {
+    "label": "Short mixed complaints",
+    "label_it": "Reclami brevi e misti",
+    "family": "Mixed"
+  },
+  "2": {
+    "label": "Order contents and returns",
+    "label_it": "Contenuto dell’ordine e resi",
+    "family": "Mixed"
+  },
+  "3": {
+    "label": "Short reviews without a common theme",
+    "label_it": "Recensioni brevi senza un tema comune",
+    "family": "Mixed"
+  },
+  "4": {
+    "label": "Order not received yet",
+    "label_it": "Ordine non ancora ricevuto",
+    "family": "Logistics"
+  },
+  "5": {
+    "label": "Waiting for delivery",
+    "label_it": "Attesa della consegna",
+    "family": "Logistics"
+  },
+  "6": {
+    "label": "Order and support problems",
+    "label_it": "Problemi con l’ordine e l’assistenza",
+    "family": "Mixed"
+  },
+  "7": {
+    "label": "Delivery dates and communication",
+    "label_it": "Tempi di consegna e comunicazione",
+    "family": "Mixed"
+  },
+  "8": {
+    "label": "Defective or wrong item",
+    "label_it": "Articolo difettoso o sbagliato",
+    "family": "Product"
+  },
+  "9": {
+    "label": "Product quality and description",
+    "label_it": "Qualità e descrizione del prodotto",
+    "family": "Product"
+  }
+}

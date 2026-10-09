@@ -1,0 +1,9 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "clusters": 10,
+  "reviews": 9108,
+  "train_reviews": 5776,
+  "silhouette": 0.019673502072691917,
+  "fingerprint": "3a3946f17f4c6667"
+}

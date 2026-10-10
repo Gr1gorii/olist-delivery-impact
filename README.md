@@ -313,3 +313,14 @@ I keep source code, tests, analytical tables, notebooks and figures in Git. `.gi
 - I would model canceled, undelivered and censored orders separately, extend repeat follow-up and avoid interpreting the observed buyer-rate gap as profit.
 - I would label more text reviews independently, retain mixed topics and study non-text reviewers separately.
 - I would retrain on recent data, check calibration by month/state/new seller and choose a live queue threshold on previous periods. This model uses 2018 data and cannot be deployed as a current risk score without new validation.
+
+## Project code license
+
+Copyright (c) 2026 Gr1gorii.
+
+The original project code authored by Gr1gorii is licensed under the
+GNU General Public License version 3 only (`GPL-3.0-only`).
+See [LICENSE](LICENSE) for the full terms.
+
+Third-party code, datasets, and materials retain their respective licenses
+and attribution requirements. This license does not replace those terms.

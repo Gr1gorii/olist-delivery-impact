@@ -2,7 +2,7 @@
 
 **Poor reviews: delivery or product?**
 
-Live app: [Olist delivery and reviews](https://gr1gorii-olist-delivery.streamlit.app/)
+Live app: [Olist delivery and reviews](https://gr1gorii-olist-delivery.streamlit.app/) · [Open dashboard](https://gr1gorii-olist-delivery.streamlit.app/~/+/)
 
 **English** | [Italiano](README.it.md)
 

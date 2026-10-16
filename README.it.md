@@ -2,7 +2,7 @@
 
 **Recensioni negative: consegna o prodotto?**
 
-App online: [Consegne e recensioni Olist](https://gr1gorii-olist-delivery.streamlit.app/)
+App online: [Consegne e recensioni Olist](https://gr1gorii-olist-delivery.streamlit.app/) · [Apri la dashboard](https://gr1gorii-olist-delivery.streamlit.app/~/+/)
 
 [English](README.md) | **Italiano**
 

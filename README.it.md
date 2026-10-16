@@ -2,6 +2,8 @@
 
 **Recensioni negative: consegna o prodotto?**
 
+App online: [Consegne e recensioni Olist](https://gr1gorii-olist-delivery.streamlit.app/)
+
 [English](README.md) | **Italiano**
 
 Ho analizzato 99.441 ordini Olist per capire dove destinare il budget: processi di consegna, completezza degli ordini o qualità dei prodotti.

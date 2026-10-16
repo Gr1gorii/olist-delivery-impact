@@ -11,6 +11,9 @@ from src.data import REPORTS, ROOT
 from src.language import category_name, number, translate
 from src.risk import FEATURES
 
+DATA = ROOT / 'data' / 'processed' if (ROOT / 'data' / 'processed' / 'orders.parquet').exists() else ROOT / 'demo'
+MODEL = ROOT / 'models' / 'late_risk.joblib' if (ROOT / 'models' / 'late_risk.joblib').exists() else ROOT / 'demo' / 'late_risk.joblib'
+
 st.set_page_config(page_title='Olist', layout='wide')
 language = st.selectbox('Language / Lingua', ['en', 'it'], format_func=lambda code: {'en': 'English', 'it': 'Italiano'}[code], key='language')
 
@@ -25,15 +28,14 @@ def n(value, digits=0):
 
 @st.cache_data
 def load_results(version):
-    frame = pd.read_parquet(ROOT / 'data' / 'processed' / 'orders.parquet')
-    test = pd.read_parquet(ROOT / 'data' / 'processed' / 'test_orders.parquet')
+    frame = pd.read_parquet(DATA / 'orders.parquet')
     summary = json.loads((REPORTS / 'summary.json').read_text())
-    return frame, test, summary
+    return frame, summary
 
 
 @st.cache_resource
 def load_model(version):
-    return joblib.load(ROOT / 'models' / 'late_risk.joblib')
+    return joblib.load(MODEL)
 
 
 def chart(figure, height=360):
@@ -50,7 +52,7 @@ if not (REPORTS / 'summary.json').exists():
     st.info(t('Prepare the results first: python scripts/download_data.py and python scripts/run_analysis.py --topics'))
     st.stop()
 
-frame, test, summary = load_results((REPORTS / 'summary.json').stat().st_mtime_ns)
+frame, summary = load_results((REPORTS / 'summary.json').stat().st_mtime_ns)
 metric_source = pd.read_csv(REPORTS / 'model_metrics.csv')
 selected_metric = metric_source.loc[metric_source['period'].eq('test') & metric_source['model'].str.startswith('Boosting')].iloc[0]
 st.title(t('Olist | Delivery and reviews'))
@@ -198,7 +200,7 @@ with risk_tab:
             'category_past_count': product_history['size'], 'category_past_late': (product_history['sum'] + 1) / (product_history['size'] + 20),
             'customer_state': region, 'seller_state': seller_state, 'category': category,
         }
-        probability = load_model((ROOT / 'models' / 'late_risk.joblib').stat().st_mtime_ns).predict_proba(pd.DataFrame([row])[FEATURES])[0, 1]
+        probability = load_model(MODEL.stat().st_mtime_ns).predict_proba(pd.DataFrame([row])[FEATURES])[0, 1]
         st.metric(t('Estimated probability of delay'), f'{n(probability * 100, 1)}%')
         st.caption(t('The estimate helps prioritize reviews. This 2018 model needs retraining and calibration checks before use on new orders.'))
     image('risk_validation.png')

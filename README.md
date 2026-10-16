@@ -2,6 +2,8 @@
 
 **Poor reviews: delivery or product?**
 
+Live app: [Olist delivery and reviews](https://gr1gorii-olist-delivery.streamlit.app/)
+
 **English** | [Italiano](README.it.md)
 
 I analyzed 99,441 Olist orders to decide where an improvement budget could help: delivery processes, order completeness or product quality.

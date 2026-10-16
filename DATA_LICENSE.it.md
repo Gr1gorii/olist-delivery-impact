@@ -17,3 +17,5 @@ python scripts/download_data.py --language it
 Lo script salva i checksum SHA-256 in `data/manifest.json`. Escludo da Git le tabelle originali, i dataset Parquet preparati, i vettori degli embedding e i modelli binari tramite `.gitignore`. La consegna attuale è una cartella di progetto senza metadati Git; le esclusioni indicano il contenuto previsto di un repository futuro e non affermano che siano stati rimossi file già tracciati.
 
 Prima di ridistribuire dati adattati, mantengo l’attribuzione e l’avviso di licenza, indico le mie modifiche e rispetto le condizioni di uso non commerciale e condivisione con la stessa licenza. Non suggerisco un’approvazione del progetto da parte di Olist.
+
+L’app pubblica include un archivio ridotto in `demo/orders.parquet`: dieci campi usati nei grafici e nei riepiloghi storici per venditore, categoria e stato. Sono esclusi identificativi dei clienti, località più precise dello stato, testi delle recensioni e vettori di embedding. Questi dati derivati mantengono la licenza CC BY-NC-SA 4.0 e l’attribuzione a Olist indicate sopra. Il modello di ritardo è incluso in `demo/late_risk.joblib` per l’esempio al checkout.
